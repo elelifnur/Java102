@@ -1,1 +1,1 @@
-#Kodlarım master branch'tadır.
+Kodlarım master branch'tadır.
